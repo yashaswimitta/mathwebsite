@@ -108,7 +108,7 @@ h1{
                         <input type="text" id="cedit" value="0" readonly/> <label>Meter<sup>2</sup></label>
                 </div>
                 <div class="footer">
-                 Developed by harikrishna
+                 Developed by yashaswimitta
                   </div>
             </form>
 
@@ -182,7 +182,7 @@ h1{
                         <input type="text" id="vedit" value="0" readonly/> <label>Meter<sup>3</sup></label>
                 </div>
                 <div class="footer">
-                    Developed by harikrishna
+                    Developed by yashaswimitta
                      </div>
             </form>
 
